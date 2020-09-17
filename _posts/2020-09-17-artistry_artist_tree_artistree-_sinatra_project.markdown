@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Artistry. Artist Tree. Artistree- Sinatra Project"
-date:       2020-09-17 11:33:57 +0000
+date:       2020-09-17 07:33:58 -0400
 permalink:  artistry_artist_tree_artistree-_sinatra_project
 ---
 
