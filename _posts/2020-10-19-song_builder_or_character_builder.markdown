@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Song builder or character builder ?"
-date:       2020-10-19 21:01:09 +0000
+date:       2020-10-19 17:01:09 -0400
 permalink:  song_builder_or_character_builder
 ---
 
